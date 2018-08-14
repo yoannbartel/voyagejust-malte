@@ -1,0 +1,2 @@
+# voyagejust-malte
+GitHub Pages
